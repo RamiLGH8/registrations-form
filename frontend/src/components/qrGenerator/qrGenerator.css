@@ -1,0 +1,9 @@
+#qrGenerator{
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #3494e6 75%, #BBBFC1);
+    height: 100vh; 
+    color: #fff;
+}
